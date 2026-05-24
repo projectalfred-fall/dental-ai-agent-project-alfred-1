@@ -1,1 +1,1 @@
-web: gunicorn "version 0.1:app"
+web: gunicorn app:app
